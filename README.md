@@ -1,7 +1,7 @@
 # sorting_algorithms
 
 * bubble sort
-* <modified bubble sort>
+* modified bubble sort
 * insertion sort
 * selection sort
 * merge sort
